@@ -1,0 +1,31 @@
+.Navigation{
+    display: flex;
+    background: orange;
+    min-height: 8vh;
+    width: 100%;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    list-style: none;
+}
+
+a {
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #fbfbfb;
+    text-decoration: none;
+}
+
+.Logo {
+    font-size: 20px;
+    font-family: sans-serif;
+    color: white;
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
